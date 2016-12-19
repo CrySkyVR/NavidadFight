@@ -45,6 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\SCRIPTS\ADS\StartAppADS.cs" />
+     <Compile Include="Assets\SCRIPTS\ADS\StartAppBackPlugin.cs" />
+     <Compile Include="Assets\SCRIPTS\ADS\StartAppWrapper.cs" />
      <Compile Include="Assets\SCRIPTS\Words.cs" />
      <Compile Include="Assets\SCRIPTS\hand.cs" />
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
